@@ -1,0 +1,9 @@
+connexion
+Flask
+Flask-Redis
+Flask-SQLAlchemy
+pymssql
+python-memcached
+PyYAML
+redis
+SQLAlchemy
